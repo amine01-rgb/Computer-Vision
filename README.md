@@ -1,3 +1,3 @@
 # Computer-Vision
-# Projenin Amacı
+# Amac
 *Bilgisayarlı Görü  konularının anlasılabilmesi icin  ornek  calısmalar*
