@@ -1,3 +1,3 @@
 # Computer-Vision
-# Amac
-*Bilgisayarlı Görü  konularının anlasılabilmesi icin  ornek  calısmalar*
+# Goal
+*Color object detection using Python and OpenCv*
